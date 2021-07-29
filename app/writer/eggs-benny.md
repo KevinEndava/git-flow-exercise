@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
+- February: [Quick Oatmeal Pancakes](../recipe/feb/quick-oatmeal-pancakes.md)
